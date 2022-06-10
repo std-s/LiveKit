@@ -1,0 +1,67 @@
+PODS:
+  - LiveKit (0.0.1):
+    - PromisesSwift (= 2.0.0)
+    - SwifterSwift
+    - SwiftLog
+    - SwiftProtobuf (= 1.18.0)
+    - WebRTC-SDK (= 97.4692.05)
+  - PromisesObjC (2.0.0)
+  - PromisesSwift (2.0.0):
+    - PromisesObjC (= 2.0.0)
+  - SwifterSwift (5.2.0):
+    - SwifterSwift/AppKit (= 5.2.0)
+    - SwifterSwift/CoreAnimation (= 5.2.0)
+    - SwifterSwift/CoreGraphics (= 5.2.0)
+    - SwifterSwift/CoreLocation (= 5.2.0)
+    - SwifterSwift/Dispatch (= 5.2.0)
+    - SwifterSwift/Foundation (= 5.2.0)
+    - SwifterSwift/MapKit (= 5.2.0)
+    - SwifterSwift/SceneKit (= 5.2.0)
+    - SwifterSwift/SpriteKit (= 5.2.0)
+    - SwifterSwift/StoreKit (= 5.2.0)
+    - SwifterSwift/SwiftStdlib (= 5.2.0)
+    - SwifterSwift/UIKit (= 5.2.0)
+  - SwifterSwift/AppKit (5.2.0)
+  - SwifterSwift/CoreAnimation (5.2.0)
+  - SwifterSwift/CoreGraphics (5.2.0)
+  - SwifterSwift/CoreLocation (5.2.0)
+  - SwifterSwift/Dispatch (5.2.0)
+  - SwifterSwift/Foundation (5.2.0)
+  - SwifterSwift/MapKit (5.2.0)
+  - SwifterSwift/SceneKit (5.2.0)
+  - SwifterSwift/SpriteKit (5.2.0)
+  - SwifterSwift/StoreKit (5.2.0)
+  - SwifterSwift/SwiftStdlib (5.2.0)
+  - SwifterSwift/UIKit (5.2.0)
+  - SwiftLog (1.0.0)
+  - SwiftProtobuf (1.18.0)
+  - WebRTC-SDK (97.4692.05)
+
+DEPENDENCIES:
+  - LiveKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - PromisesObjC
+    - PromisesSwift
+    - SwifterSwift
+    - SwiftLog
+    - SwiftProtobuf
+    - WebRTC-SDK
+
+EXTERNAL SOURCES:
+  LiveKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LiveKit: c875c06db3a88171feabd68498146be2122a04c3
+  PromisesObjC: 68159ce6952d93e17b2dfe273b8c40907db5ba58
+  PromisesSwift: e0b2a6433469efb0b83a2b84c62a2abab8e5e5d4
+  SwifterSwift: 334181863c416882d97b7a60c05054d9e4d799e2
+  SwiftLog: f6c4f9a4ade06263555ab34b2c0f72025ffcda9e
+  SwiftProtobuf: c3c12645230d9b09c72267e0de89468c5543bd86
+  WebRTC-SDK: a6ee40bda0e3f7dba057907c3897374005c5715b
+
+PODFILE CHECKSUM: d38c72c220a42e5edca42f9315bb50788b9b618c
+
+COCOAPODS: 1.11.3
