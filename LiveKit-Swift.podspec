@@ -17,6 +17,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
+  为支持cocoapods
                        DESC
 
   s.homepage         = 'https://www.rentsoft.cn/'
@@ -28,7 +29,6 @@ Pod::Spec.new do |s|
 
   s.source_files = 'LiveKit/**/*'
 
-  s.static_framework = true 
   s.dependency 'WebRTC-SDK', '97.4692.05'
   s.dependency 'SwiftProtobuf', '1.18.0'
   s.dependency 'PromisesSwift', '2.0.0'
